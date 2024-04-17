@@ -9,3 +9,7 @@
 .card-title {
     text-align: center;
 }
+
+ul.b {
+    list-style-type: circle;
+  }
