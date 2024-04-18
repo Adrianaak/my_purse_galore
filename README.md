@@ -9,6 +9,8 @@ Images of website
 ![Checkout page](image-3.png)
 ![Registration page](image-4.png)
 
+One intriguing addition to my website is a responsive slideshow that adjusts seamlessly to different screen sizes and devices.
+
 ## Contributions are welcome! If you have a purse that you'd like to add to the collection, or if you have ideas for improving the repository
 
 ## Contact If you have any questions or suggestions, please don't hesitate to reach out: - Email: [Kendricksadriana16@gmail.com] Happy purse hunting!
