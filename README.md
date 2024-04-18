@@ -10,6 +10,28 @@ Images of website
 ![Registration page](image-4.png)
 
 One intriguing addition to my website is a responsive slideshow that adjusts seamlessly to different screen sizes and devices.
+<div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                    <img src="https://img.girlmerry.com/media/easyslide/shine-o.jpg" class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://kg-static.s3.eu-west-1.amazonaws.com/assets/kurtgeiger/2024/High%20Summer/HOLIDAY_EDIT.jpg"
+                        class="d-block w-100" alt="...">
+                </div>
+                <div class="carousel-item">
+                    <img src="https://img.girlmerry.com/media/easyslide/shine-o.jpg" class="d-block w-100" alt="...">
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
 
 ## Contributions are welcome! If you have a purse that you'd like to add to the collection, or if you have ideas for improving the repository
 
